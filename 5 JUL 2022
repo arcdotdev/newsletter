@@ -14,7 +14,7 @@
     <![endif]-->
     <!--[if (gte mso 9)|(IE)]>
     <style type="text/css">
-      body {width: 100%;margin: 0 auto;}
+      body {width: 600px;margin: 0 auto;}
       table {border-collapse: collapse;}
       table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
       img {-ms-interpolation-mode: bicubic;}
@@ -126,7 +126,7 @@
            style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
       <tr>
         <td role="module-content">
-          <p>Discover the hottest tech trends from the Stack Overflow Developer Survey 2022</p>
+          <p>Nail your remote technical interview with these top tips</p>
         </td>
       </tr>
     </table>
@@ -134,7 +134,7 @@
     <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
         <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
-          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://marketing-image-production.s3.amazonaws.com/uploads/48b0148441b274bf5210f0a7318c65b3a56d5a13536400c7ffdcb6cf47054bccaa61705155d0f0ea2313f39e733845f4183a9fa6d58a7b2458d8576c1a9c5c8d.png" alt="Arc Newsletter" width="600"></a>
+          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220620"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://marketing-image-production.s3.amazonaws.com/uploads/48b0148441b274bf5210f0a7318c65b3a56d5a13536400c7ffdcb6cf47054bccaa61705155d0f0ea2313f39e733845f4183a9fa6d58a7b2458d8576c1a9c5c8d.png" alt="Arc Newsletter" width="600"></a>
         </td>
       </tr>
     </table>
@@ -145,7 +145,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">What's new at Arc?</span></font></h2>
+            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">What differentiates remote developers with 6-figure incomes?</span></font></h2>
         </td>
       </tr>
     </table>
@@ -156,28 +156,15 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">You might've noticed a few changes in your dashboard recently. But in case you missed them, here's a quick recap:</span></span></p>
+            <div>A $100K dollar salary as a developer may seem out of reach, but with the right strategies, it's achievable.</div>
 
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<div>&nbsp;</div>
 
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">For developers, Arc is now open to more regions! Developers from all over the world are eligible to be featured in Arc. </span></span></p>
+<div>Analysis of our salary data shows that strategic pivots — away from or into certain disciplines, roles, and employers — can help developers increase their chances of becoming part of this higher-earning group.</div>
 
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;">&nbsp;</span></p>
+<div>&nbsp;</div>
 
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">If you're hiring: Find your next remote dev even faster with our new global filters. Now, you can narrow down your full-time candidate list by:</span></span></p>
-
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-
-<ul dir="ltr">
-	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Tech stack</span></span></li>
-	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Discipline</span></span></span></span></li>
-	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Region</span></span></span></span></span></span></li>
-	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Salary range</span></span></span></span></span></span></span></span></li>
-</ul>
-
-<div style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</div>
-
-<div style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">Check out our new features right away!</a></div>
+<div>Learn more in our latest data report <a href="https://arc.dev/developer-blog/what-remote-developers-earning-100k-do-differently/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_term=20220620">here</a>.</div>
         </td>
       </tr>
     </table>
@@ -219,7 +206,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">The Stack Overflow 2022 Developer Survey results are&nbsp;here!</span></font></h2>
+            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">Join the biggest React conference worldwide</span></font></h2>
         </td>
       </tr>
     </table>
@@ -230,15 +217,90 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">In May, +70K developers revealed great insights about the attitudes, tools, and environments that are shaping the software development field.</span></span></p>
+            <div>Gather with thousands of front-end and full-stack engineers from around the world at&nbsp;the React Summit 2022.</div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;">&nbsp;</span></p>
+<div>&nbsp;</div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Discover the best programming language to learn, the most-used online learning platform, the best code editor, and more!</span></span></p>
+<div>Take full advantage of the conference experience, join remote discussions, socialize at remote afterparties, and get training from the best speakers and instructors.</div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;">&nbsp;</span></p>
+<div>&nbsp;</div>
 
-<div><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Read the <a href="https://survey.stackoverflow.co/2022/#overview">survey results</a> now.</span></span></div>
+<div>Don't forget to tune in on <strong>June 21st</strong> for the remote day <a href="https://reactsummit.com/attendee">here</a>!</div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module"
+           role="module"
+           data-type="divider"
+           border="0"
+           cellpadding="0"
+           cellspacing="0"
+           width="100%"
+           style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;"
+            role="module-content"
+            height="100%"
+            valign="top"
+            bgcolor="">
+          <table border="0"
+                 cellpadding="0"
+                 cellspacing="0"
+                 align="center"
+                 width="100%"
+                 height="1px"
+                 style="line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style="padding: 0px 0px 1px 0px;"
+                bgcolor="#D8D8D8"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:00px 0px 0px 0px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div><span style="color:#A9A9A9;"><strong>SPONSORED CONTENT</strong></span></div>
+
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:0px 00px 0px 00px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <h2><font color="#02157c"><span style="font-size: 16px;">Benefits of learning in public and how to do it well</span></font></h2>
+
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="padding:18px 0px 18px 0px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">Developers are used to the idea of constant learning, but how should you learn?</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(68, 68, 68); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">In this talk hosted by Codementor, we&rsquo;ll explore how learning in public can accelerate your career, and ultimately make you a better developer, with practical examples.</span></span></span></div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">&nbsp;</div>
+
+<div style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px; color: rgb(51, 51, 51);">Join the free virtual event&nbsp;<a href="https://www.codementor.io/events/benefits-of-learning-in-public-erweqqllr4?ref=arc-newsletter" style="font-size: 14px;">&quot;Benefits or learning in public and how to do it well&quot;</a>&nbsp;on <strong>July 7th</strong>.</div>
+
         </td>
       </tr>
     </table>
@@ -280,7 +342,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <h2><font color="#02157c"><span style="font-size: 16px;">Up for a good tech read?</span></font></h2>
+            <h2><font color="#02157c"><span style="font-size: 16px;">Want to make a great impression as a remote software developer candidate?</span></font></h2>
         </td>
       </tr>
     </table>
@@ -291,28 +353,19 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><font face="Arial"><span style="font-size: 14px; white-space: pre-wrap;">If you're in the northern hemisphere, summer is here.</span></font></p>
+            <div><font color="#444444" face="Arial"><span style="white-space: pre-wrap;">The recruitment process for a development job can be a long journey. We're here to help.</span></font></div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<div>&nbsp;</div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><font face="Arial"><span style="font-size: 14px; white-space: pre-wrap;">If you're looking forward to some beach time to catch up on your reads, Fast Company shared their top picks of the <a href="https://www.fastcompany.com/90759588/10-of-the-best-technology-books-for-summer-2022">2022 tech title</a><a href="https://www.fastcompany.com/90759588/10-of-the-best-technology-books-for-summer-2022">s</a>.</span></font></p>
+<div><font color="#444444" face="Arial"><span style="white-space: pre-wrap;">This <a href="https://arc.dev/developer-blog/web-developer-interview-questions/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_term=20220620">guide</a> for web devs will walk you through all the essential technical and communication interview questions.</span></font></div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<div>&nbsp;</div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">There's a wide selection that delves into everything from digital work to AI.</p>
+<div><span id="docs-internal-guid-d4837850-7fff-c977-6e8d-4fc110fc57aa" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">And speaking of technical interviews, if you've ever wondered what Arc technical interviews are like, our friend Midudev will be live-streaming a mock technical interview with Arc.</span></span></div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<div>&nbsp;</div>
 
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Catch us reading:</p>
-
-<ul dir="ltr">
-	<li style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Dignity in a Digital Age: Make Tech Work for All of Us</li>
-	<li style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential</li>
-</ul>
-
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Speaking of learning, check out the upcoming virtual event <a href="https://www.codementor.io/events/benefits-of-learning-in-public-erweqqllr4?ref=arc-newsletter">"Benefits of learning in public and how to do it well"</a> from our friends at Codementor and hosted by Shawn "swyz" Wang—author of The Coding Handbook.</p>
+<div>Tune in on <strong>June 23</strong>&nbsp;at <strong>11:00 AM (PT)</strong> on <a href="https://www.twitch.tv/midudev">Midudev's Twitch channel</a>&nbsp;to get a glimpse and prepare for your remote interview.</div>
         </td>
       </tr>
     </table>
@@ -378,7 +431,7 @@
 
 <div>&nbsp;</div>
 
-<div><a href="https://arc.dev/get-featured?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">Learn more about getting featured directly to companies</a></div>
+<div><a href="https://arc.dev/get-featured?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220620">Learn more about getting featured directly to companies</a></div>
         </td>
       </tr>
     </table>
@@ -414,6 +467,25 @@
       </tr>
     </table>
   
+    <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:20% !important;width:20%;height:auto !important;" src="https://legacy-image-prod.s3.amazonaws.com/uploads/429822577b348640f0697e688c520e85ec3b6259916fb23b73829a59985463155372afd745d68f00f0f3e4cbb94f968dfa19571d63a956e80a2a306f2605df72.png" alt="" width="120">
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
+        <td style="background-color:#010f58;padding:10px 010px 10px 10px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="#010f58">
+            <div><span style="color:#FFFFFF;"><strong>Benefits of learning in public and how to do it well [Sponsored]</strong>&nbsp;<span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px;">Join the free virtual event&nbsp;</span></span><a href="https://www.codementor.io/events/benefits-of-learning-in-public-erweqqllr4?ref=arc-newsletter" style="background-color: rgb(255, 255, 255); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px;"><span style="color:#FFFFFF;"><span style="background-color:#010f58;">"Benefits or learning in public and how to do it well"</span></span></a><span style="color:#FFFFFF;"><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px;"><span style="background-color:#010f58;">&nbsp;</span>on&nbsp;</span><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; font-family: arial, helvetica, sans-serif; font-size: 14px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">July 7th</span><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px;">. Join here!</span></span></div>
+        </td>
+      </tr>
+    </table>
+  
     <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
         <td style="padding:0px 0px 18px 0px;line-height:22px;text-align:inherit;"
@@ -422,7 +494,7 @@
             bgcolor="">
             <div style="text-align: center;"><span style="color:#02157C;"><strong>About Us:</strong></span><br>
 <br>
-<span style="color:#02157C;"><em><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">Arc</a> is the easiest way to find remote developer jobs.</em></span></div>
+<span style="color:#02157C;"><em><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220620">Arc</a> is the easiest way to find remote developer jobs.</em></span></div>
         </td>
       </tr>
     </table>
@@ -469,7 +541,7 @@
         </tr>
       </tbody>
     </table>
-  <table border="0" cellPadding="0" cellSpacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed" width="100%"><tbody><tr><td align="center" class="outer-td" style="padding:0px 0px 0px 0px"><table border="0" cellPadding="0" cellSpacing="0" class="button-css__deep-table___2OZyb wrapper-mobile" style="text-align:center"><tbody><tr><td align="center" bgcolor="#ffffff" class="inner-td" style="border-radius:6px;font-size:16px;text-align:center;background-color:inherit"><a style="background-color:#ffffff;border:1px solid #333333;border-color:#ffffff;border-radius:6px;border-width:0px;color:#02157C;display:inline-block;font-family:arial,helvetica,sans-serif;font-size:13px;font-weight:bold;letter-spacing:0px;line-height:12px;padding:18px 18px 18px 18px;text-align:center;text-decoration:none;font-style:italic" href="https://arc.dev/developer-blog/?utm_source=sendgrid&utm_medium=email&utm_campaign=arc-newsletter&utm_content=20220704" target="_blank">Read more on Arc →</a></td></tr></tbody></table></td></tr></tbody></table>
+  <table border="0" cellPadding="0" cellSpacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed" width="100%"><tbody><tr><td align="center" class="outer-td" style="padding:0px 0px 0px 0px"><table border="0" cellPadding="0" cellSpacing="0" class="button-css__deep-table___2OZyb wrapper-mobile" style="text-align:center"><tbody><tr><td align="center" bgcolor="#ffffff" class="inner-td" style="border-radius:6px;font-size:16px;text-align:center;background-color:inherit"><a style="background-color:#ffffff;border:1px solid #333333;border-color:#ffffff;border-radius:6px;border-width:0px;color:#02157C;display:inline-block;font-family:arial,helvetica,sans-serif;font-size:13px;font-weight:bold;letter-spacing:0px;line-height:12px;padding:18px 18px 18px 18px;text-align:center;text-decoration:none;font-style:italic" href="https://arc.dev/developer-blog/?utm_source=sendgrid&utm_medium=email&utm_campaign=arc-newsletter&utm_content=20220620" target="_blank">Read more on Arc →</a></td></tr></tbody></table></td></tr></tbody></table>
     <table class="module"
            role="module"
            data-type="divider"
@@ -507,7 +579,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div style="text-align: center;"><span style="font-size:12px;"><em><span style="color:#444444;"><font face="Slack-Lato, appleLogo, sans-serif"><span style="font-variant-ligatures: common-ligatures;">Did someone forward you this newsletter and you want to subscribe? Click <a href="https://get.arc.dev/w/arc-newsletter-subscription?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">here</a>.<br>
+            <div style="text-align: center;"><span style="font-size:12px;"><em><span style="color:#444444;"><font face="Slack-Lato, appleLogo, sans-serif"><span style="font-variant-ligatures: common-ligatures;">Did someone forward you this newsletter and you want to subscribe? Click <a href="https://get.arc.dev/w/arc-newsletter-subscription?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220620">here</a>.<br>
 <strong>To unsubscribe, go to the base of this email.</strong></span></font></span></em></span></div>
         </td>
       </tr>
