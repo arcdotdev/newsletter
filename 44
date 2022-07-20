@@ -126,7 +126,7 @@
            style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
       <tr>
         <td role="module-content">
-          <p>Grab your seat: Best practices in remote engineering and cloud development</p>
+          <p>Discover the hottest tech trends from the Stack Overflow Developer Survey 2022</p>
         </td>
       </tr>
     </table>
@@ -134,7 +134,7 @@
     <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
         <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
-          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220606"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://marketing-image-production.s3.amazonaws.com/uploads/48b0148441b274bf5210f0a7318c65b3a56d5a13536400c7ffdcb6cf47054bccaa61705155d0f0ea2313f39e733845f4183a9fa6d58a7b2458d8576c1a9c5c8d.png" alt="Arc Newsletter" width="600"></a>
+          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://marketing-image-production.s3.amazonaws.com/uploads/48b0148441b274bf5210f0a7318c65b3a56d5a13536400c7ffdcb6cf47054bccaa61705155d0f0ea2313f39e733845f4183a9fa6d58a7b2458d8576c1a9c5c8d.png" alt="Arc Newsletter" width="600"></a>
         </td>
       </tr>
     </table>
@@ -145,7 +145,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">Apple's Worldwide Developers Conference 2022 kicks off today!</span></font></h2>
+            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">What's new at Arc?</span></font></h2>
         </td>
       </tr>
     </table>
@@ -156,19 +156,28 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div><font face="Arial"><span style="white-space: pre-wrap;">Join the worldwide developer community from June 6 to 10 at the WWDC22.</span></font></div>
+            <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">You might've noticed a few changes in your dashboard recently. But in case you missed them, here's a quick recap:</span></span></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 
-<div><span id="docs-internal-guid-c5e6975f-7fff-3116-2b54-d75092981125" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Learn about Apple's latest updates and exciting reveals, connect with experts, and explore the newest technologies and frameworks.</span></span></div>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">For developers, Arc is now open to more regions! Developers from all over the world are eligible to be featured in Arc. </span></span></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;">&nbsp;</span></p>
 
-<div><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">An inspiring week of technology and community—all online and at no cost.</span></span></div>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">If you're hiring: Find your next remote dev even faster with our new global filters. Now, you can narrow down your full-time candidate list by:</span></span></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 
-<div>Grab your seat at <a href="https://developer.apple.com/wwdc22/">Apple's Worldwide Developers Conference</a>.</div>
+<ul dir="ltr">
+	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Tech stack</span></span></li>
+	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Discipline</span></span></span></span></li>
+	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Region</span></span></span></span></span></span></li>
+	<li style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;"><span id="docs-internal-guid-650d5052-7fff-069a-609b-e4b1f2ce3ccb" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Salary range</span></span></span></span></span></span></span></span></li>
+</ul>
+
+<div style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</div>
+
+<div style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">Check out our new features right away!</a></div>
         </td>
       </tr>
     </table>
@@ -210,7 +219,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">Recruitment software for finding great developers</span></font></h2>
+            <h2 style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-family: arial, helvetica, sans-serif;"><font color="#02157c"><span style="font-size: 16px;">The Stack Overflow 2022 Developer Survey results are&nbsp;here!</span></font></h2>
         </td>
       </tr>
     </table>
@@ -221,15 +230,15 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div><span id="docs-internal-guid-e387688f-7fff-f601-147e-50ba9fed1853" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">With so many great developers worldwide, it can be tough to select just one.</span></span></div>
+            <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">In May, +70K developers revealed great insights about the attitudes, tools, and environments that are shaping the software development field.</span></span></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;">&nbsp;</span></p>
 
-<div><span id="docs-internal-guid-c5e6975f-7fff-3116-2b54-d75092981125" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Luckily, you've got access to plenty of valuable candidate sourcing and recruitment tools.</span></span></div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Discover the best programming language to learn, the most-used online learning platform, the best code editor, and more!</span></span></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;">&nbsp;</span></p>
 
-<div>Check out&nbsp;<a href="https://arc.dev/employer-blog/best-hiring-recruitment-tools/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220606" style="background-color: rgb(255, 255, 255); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-family: arial, helvetica, sans-serif; font-size: 14px;">14 Best Recruitment Tools &amp; Services to Hire Top Software Developers</a><span style="color: rgb(51, 51, 51); font-family: arial, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">.</span></div>
+<div><span id="docs-internal-guid-7b06db56-7fff-b5d9-b80e-f8cc9c46983c" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Read the <a href="https://survey.stackoverflow.co/2022/#overview">survey results</a> now.</span></span></div>
         </td>
       </tr>
     </table>
@@ -271,7 +280,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <h2><font color="#02157c"><span style="font-size: 16px;">Working effectively as a software engineer in a remote team</span></font></h2>
+            <h2><font color="#02157c"><span style="font-size: 16px;">Up for a good tech read?</span></font></h2>
         </td>
       </tr>
     </table>
@@ -282,15 +291,28 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div><span id="docs-internal-guid-cb2178e9-7fff-8d97-d2b8-30154a8d11c9" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(68, 68, 68); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">While we believe in the future of remote work, there are still some challenges to be solved in working remotely both effectively and sustainably.</span></span></div>
+            <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><font face="Arial"><span style="font-size: 14px; white-space: pre-wrap;">If you're in the northern hemisphere, summer is here.</span></font></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 
-<div><span id="docs-internal-guid-d4837850-7fff-c977-6e8d-4fc110fc57aa" style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">Join this virtual event from our friends at Codementor and h</span></span><span style="color: rgb(68, 68, 68); font-family: Arial; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; white-space: pre-wrap;">osted by Charlie Gao—co-founder of unicorn Lime—</span><span style="font-weight:normal;"><span style="font-size: 10.5pt; font-family: Arial; color: rgb(51, 51, 51); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">to learn </span><span style="font-size: 10.5pt; font-family: Arial; color: rgb(68, 68, 68); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; white-space: pre-wrap;">challenges, best practices, and tools to increase effectiveness.</span></span></div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><font face="Arial"><span style="font-size: 14px; white-space: pre-wrap;">If you're looking forward to some beach time to catch up on your reads, Fast Company shared their top picks of the <a href="https://www.fastcompany.com/90759588/10-of-the-best-technology-books-for-summer-2022">2022 tech title</a><a href="https://www.fastcompany.com/90759588/10-of-the-best-technology-books-for-summer-2022">s</a>.</span></font></p>
 
-<div>&nbsp;</div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 
-<div>Get your free ticket to <a href="https://www.codementor.io/events/best-practices-in-remote-engineering-ekja0gq9be?ref=arc-newsletter">Best practices in remote engineering and cloud development</a>.</div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">There's a wide selection that delves into everything from digital work to AI.</p>
+
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Catch us reading:</p>
+
+<ul dir="ltr">
+	<li style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Dignity in a Digital Age: Make Tech Work for All of Us</li>
+	<li style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential</li>
+</ul>
+
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;">Speaking of learning, check out the upcoming virtual event <a href="https://www.codementor.io/events/benefits-of-learning-in-public-erweqqllr4?ref=arc-newsletter">"Benefits of learning in public and how to do it well"</a> from our friends at Codementor and hosted by Shawn "swyz" Wang—author of The Coding Handbook.</p>
         </td>
       </tr>
     </table>
@@ -356,7 +378,7 @@
 
 <div>&nbsp;</div>
 
-<div><a href="https://arc.dev/get-featured?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220606">Learn more about getting featured directly to companies</a></div>
+<div><a href="https://arc.dev/get-featured?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">Learn more about getting featured directly to companies</a></div>
         </td>
       </tr>
     </table>
@@ -400,7 +422,7 @@
             bgcolor="">
             <div style="text-align: center;"><span style="color:#02157C;"><strong>About Us:</strong></span><br>
 <br>
-<span style="color:#02157C;"><em><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220606">Arc</a> is the easiest way to find remote developer jobs.</em></span></div>
+<span style="color:#02157C;"><em><a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">Arc</a> is the easiest way to find remote developer jobs.</em></span></div>
         </td>
       </tr>
     </table>
@@ -447,7 +469,7 @@
         </tr>
       </tbody>
     </table>
-  <table border="0" cellPadding="0" cellSpacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed" width="100%"><tbody><tr><td align="center" class="outer-td" style="padding:0px 0px 0px 0px"><table border="0" cellPadding="0" cellSpacing="0" class="button-css__deep-table___2OZyb wrapper-mobile" style="text-align:center"><tbody><tr><td align="center" bgcolor="#ffffff" class="inner-td" style="border-radius:6px;font-size:16px;text-align:center;background-color:inherit"><a style="background-color:#ffffff;border:1px solid #333333;border-color:#ffffff;border-radius:6px;border-width:0px;color:#02157C;display:inline-block;font-family:arial,helvetica,sans-serif;font-size:13px;font-weight:bold;letter-spacing:0px;line-height:12px;padding:18px 18px 18px 18px;text-align:center;text-decoration:none;font-style:italic" href="https://arc.dev/developer-blog/?utm_source=sendgrid&utm_medium=email&utm_campaign=arc-newsletter&utm_content=20220606" target="_blank">Read more on Arc →</a></td></tr></tbody></table></td></tr></tbody></table>
+  <table border="0" cellPadding="0" cellSpacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed" width="100%"><tbody><tr><td align="center" class="outer-td" style="padding:0px 0px 0px 0px"><table border="0" cellPadding="0" cellSpacing="0" class="button-css__deep-table___2OZyb wrapper-mobile" style="text-align:center"><tbody><tr><td align="center" bgcolor="#ffffff" class="inner-td" style="border-radius:6px;font-size:16px;text-align:center;background-color:inherit"><a style="background-color:#ffffff;border:1px solid #333333;border-color:#ffffff;border-radius:6px;border-width:0px;color:#02157C;display:inline-block;font-family:arial,helvetica,sans-serif;font-size:13px;font-weight:bold;letter-spacing:0px;line-height:12px;padding:18px 18px 18px 18px;text-align:center;text-decoration:none;font-style:italic" href="https://arc.dev/developer-blog/?utm_source=sendgrid&utm_medium=email&utm_campaign=arc-newsletter&utm_content=20220704" target="_blank">Read more on Arc →</a></td></tr></tbody></table></td></tr></tbody></table>
     <table class="module"
            role="module"
            data-type="divider"
@@ -485,7 +507,7 @@
             height="100%"
             valign="top"
             bgcolor="">
-            <div style="text-align: center;"><span style="font-size:12px;"><em><span style="color:#444444;"><font face="Slack-Lato, appleLogo, sans-serif"><span style="font-variant-ligatures: common-ligatures;">Did someone forward you this newsletter and you want to subscribe? Click <a href="https://get.arc.dev/w/arc-newsletter-subscription?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220606">here</a>.<br>
+            <div style="text-align: center;"><span style="font-size:12px;"><em><span style="color:#444444;"><font face="Slack-Lato, appleLogo, sans-serif"><span style="font-variant-ligatures: common-ligatures;">Did someone forward you this newsletter and you want to subscribe? Click <a href="https://get.arc.dev/w/arc-newsletter-subscription?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704">here</a>.<br>
 <strong>To unsubscribe, go to the base of this email.</strong></span></font></span></em></span></div>
         </td>
       </tr>
