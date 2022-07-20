@@ -210,6 +210,17 @@
   
     <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
+        <td style="padding:00px 0px 00px 0px;line-height:22px;text-align:inherit;"
+            height="100%"
+            valign="top"
+            bgcolor="">
+            <div><span style="color:#A9A9A9;"><strong>SPONSORED BY FAST COMPANY</strong></span></div>
+        </td>
+      </tr>
+    </table>
+  
+    <table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
+      <tr>
         <td style="padding:0px 00px 0px 00px;text-align:inherit;"
             height="100%"
             valign="top"
