@@ -14,7 +14,7 @@
     <![endif]-->
     <!--[if (gte mso 9)|(IE)]>
     <style type="text/css">
-      body {width: 600px;margin: 0 auto;}
+      body {width: 100%;margin: 0 auto;}
       table {border-collapse: collapse;}
       table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
       img {-ms-interpolation-mode: bicubic;}
@@ -116,9 +116,9 @@
                         <td>
                           <!--[if mso]>
                           <center>
-                          <table><tr><td width="600">
+                          <table><tr><td width="100%">
                           <![endif]-->
-                          <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width:600px;" align="center">
+                          <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width:100%;" align="center">
                             <tr>
                               <td role="modules-container" style="padding: 0px 0px 0px 0px; color: #333; text-align: left;" bgcolor="#ffffff" width="100%" align="left">
                                 
@@ -134,7 +134,7 @@
     <table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;">
       <tr>
         <td style="font-size:6px;line-height:10px;padding:0px 0px 0px 0px;" valign="top" align="center">
-          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://marketing-image-production.s3.amazonaws.com/uploads/48b0148441b274bf5210f0a7318c65b3a56d5a13536400c7ffdcb6cf47054bccaa61705155d0f0ea2313f39e733845f4183a9fa6d58a7b2458d8576c1a9c5c8d.png" alt="Arc Newsletter" width="600"></a>
+          <a href="https://arc.dev/?utm_source=sendgrid&amp;utm_medium=email&amp;utm_campaign=arc-newsletter&amp;utm_content=20220704"><img class="max-width" border="0" style="display:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !important;" src="https://marketing-image-production.s3.amazonaws.com/uploads/48b0148441b274bf5210f0a7318c65b3a56d5a13536400c7ffdcb6cf47054bccaa61705155d0f0ea2313f39e733845f4183a9fa6d58a7b2458d8576c1a9c5c8d.png" alt="Arc Newsletter" width="100%"></a>
         </td>
       </tr>
     </table>
